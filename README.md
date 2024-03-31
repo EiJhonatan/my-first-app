@@ -2,4 +2,5 @@
 
 A first app with Flutter.
 
-![image](https://github.com/EiJhonatan/my-first-app/assets/103134496/d57e19d1-982d-4dd0-a4de-ad24e192fd32)
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a62ed34f-5da1-4348-94f5-1bd0a8320cfa/6e1b32f7-fe68-40d4-ac4f-b663135b6b0b/Untitled.png)
